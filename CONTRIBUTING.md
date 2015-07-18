@@ -22,4 +22,4 @@
 
 # License
 
-GPLv2
+GPLv2 or Apache License v2.0
